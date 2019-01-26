@@ -1,2 +1,2 @@
 # Quize_Time
-Hello, this is a application maked whith javaEE 
+Hello, this is a application maked with javaEE
